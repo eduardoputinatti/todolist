@@ -1,3 +1,6 @@
+## Visualize o projeto
+https://eduardoputinatti.github.io/todolist/
+
 ## Requisitos Obrigatórios:
 
 ### 1 - Adicione à sua lista o título "Minha Lista de Tarefas" em uma tag <header>
